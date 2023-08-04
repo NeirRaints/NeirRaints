@@ -1,16 +1,11 @@
 <H1>Hello world!</H1>
 :man_technologist: Обо мне:
 
-### 💻 Технологии:
+#### Технологии:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-</div>
+[![GitHub](https://img.icons8.com/material/48/000000/github--v1.png)](https://github.com) 
+[![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
----
+#### Инструменты:
 
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-</div>
+[![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png)](https://www.adobe.com/products/photoshop.html)
