@@ -1,5 +1,5 @@
 <H1>Hello world!</H1>
-### :man_technologist: Обо мне:
+:man_technologist: Обо мне:
 
 ### 💻 Технологии:
 
