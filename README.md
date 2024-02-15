@@ -10,6 +10,7 @@
 
 [![GitHub](https://img.icons8.com/material/48/000000/github--v1.png)](https://github.com) 
 [![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Html](https://icons8.com/icon/EAUyKy3IwmqM/html-5)](https://www.w3.org/TR/2021/NOTE-html53-20210128/)
 
 #### Инструменты:
 
