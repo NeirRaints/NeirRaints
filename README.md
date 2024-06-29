@@ -13,5 +13,4 @@
 
 #### Инструменты:
 [![VisualStudio](https://img.icons8.com/color/48/000000/visual-studio)](https://visualstudio.microsoft.com)
-[![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png)](https://www.adobe.com/products/photoshop.html)
-[![MSOffice](https://img.icons8.com/color/48/000000/microsoft-office-2019)](https://www.microsoft.com/ru-ru/microsoft-365/microsoft-office)
+
